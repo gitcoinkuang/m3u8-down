@@ -1,0 +1,5 @@
+Cython
+setuptools
+subprocess
+requests
+tqdm
